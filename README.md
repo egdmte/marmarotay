@@ -1,5 +1,5 @@
 # Marmarotay - Location Tracker For Marmaray
-Marmarotay is licensed under Apache License - you can copy, change and redistribute Marmarotay with attribution while you keep this original license. This program is published "as-is", performance issues or bugs may and will occur especially on beta versions. This is a shorter version of the Apache License and does not have legal validity - please read the original license file first!
+Marmarotay is licensed under GNU General Public License that allows you to copy, share, distribute, edit and use it commercially as long as the you distribute using the same license (GNU GPL) and the source code of the product is publicly available. It is not permitted to relicense this product or distribute it closed-source.  Please refer to the LICENSE file for full legal text.
 
 You are currently in the English version of this page. Click here for Turkish (Türkçe) language support.
 
