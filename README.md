@@ -3,7 +3,12 @@ Marmarotay is licensed under GNU General Public License that allows you to copy,
 
 You are currently in the English version of this page. Click here for Turkish (Türkçe) language support.
 
-ㅤ
+## Legal Notice
+This application can help you with tracking the nearest station to you - this doesn't override the necessity of manual observation. Marmarotay is published "as-is", with the unintentional bugs or errors that may happen.
+
+When you start the route, you acknowledge and agree to taking the responsibility of your and others' safety. Marmarotay is not an excuse to disrupt public transportation services.
+
+Have a good and safe day.
 ㅤ
 
 ### 🤷‍♂️ What does it do - and why Marmaray?
